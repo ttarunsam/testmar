@@ -1,2 +1,2 @@
 # testmar
-test repo for learning
+test repo for learning Git Commands
